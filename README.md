@@ -1,2 +1,3 @@
-# ipv6expand
-A small perl utility to expand an ipv6 address with full amount of zeros
+# Repo moved
+This repo has now been moved to my own code hosting solution on smolnet.org:
+* [ipv6expand](https://code.smolnet.org/micke/ipv6expand)
